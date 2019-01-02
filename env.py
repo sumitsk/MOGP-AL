@@ -1,6 +1,5 @@
 import numpy as np
 from utils import load_data, zero_mean_unit_variance, vec_to_one_hot_matrix
-import ipdb
 
 
 class JuraEnv(object):
